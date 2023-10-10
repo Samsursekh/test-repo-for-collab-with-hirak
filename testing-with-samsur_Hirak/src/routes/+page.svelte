@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title class="text-2xl">Home</title>
+  <title class="text-5xl">Home</title>
   <meta name="description" content="Svelte demo app" />
 </svelte:head>
 
